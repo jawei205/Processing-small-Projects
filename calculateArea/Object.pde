@@ -1,7 +1,7 @@
 class Object {
 
   void draws() {
-    int objects = int(random(1, 2)); //chooses the object which will be drawn
+    int objects = int(random(1, 3)); //chooses the object which will be drawn
 
     if (objects==1) {//rectangle
       int a = int(random(25, 300)); //random side a
