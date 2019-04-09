@@ -3,6 +3,8 @@ void setup() {
 }
 void draw() {
   background(0);
+  fill(255);
+  point(width/2,300);
 }
 
 void mousePressed() {

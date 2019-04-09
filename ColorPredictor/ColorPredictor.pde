@@ -1,3 +1,6 @@
+//This was inspired by Dan Shiffman's Video:
+//Guest Tutorial #9: Color Predictor with Jabril
+
 int r;
 int g;
 int b;
